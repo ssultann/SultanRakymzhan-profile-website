@@ -41,7 +41,7 @@ https://templatemo.com/tm-532-next-level
                 <ul class="navbar-nav ml-auto mr-0">
                   <li class="nav-item active">
                     <div class="tm-nav-link-highlight"></div>
-                    <a class="nav-link" href="#"
+                    <a class="nav-link" href="/"
                       >Home <span class="sr-only">(current)</span></a
                     >
                   </li>
@@ -65,8 +65,7 @@ https://templatemo.com/tm-532-next-level
           <div class="tm-page-col-left tm-welcome-box tm-bg-gradient">
             <p class="tm-welcome-text">
               <em
-                >"This is a gradient CSS background #A0c0c0 to #669999 and right
-                side is a pink lady parallx image."</em
+                >Work while young!</em
               >
             </p>
           </div>
@@ -74,7 +73,7 @@ https://templatemo.com/tm-532-next-level
             <div
               class="tm-welcome-parallax"
               data-parallax="scroll"
-              data-image-src="img/pink-contem-girl.jpg"
+              data-image-src="img/about.jpg"
             ></div>
           </div>
         </div>
@@ -87,19 +86,13 @@ https://templatemo.com/tm-532-next-level
               <li>
                 <a href="#tab1" class="active">
                   <div class="tm-tab-icon"></div>
-                  About Us
+                  About Me
                 </a>
               </li>
               <li>
                 <a href="#tab2" class="">
                   <div class="tm-tab-icon"></div>
                   Vision and Mission
-                </a>
-              </li>
-              <li>
-                <a href="#tab3" class="">
-                  <div class="tm-tab-icon"></div>
-                  Our History
                 </a>
               </li>
             </ul>
@@ -109,417 +102,27 @@ https://templatemo.com/tm-532-next-level
               <div id="tab1">
                 <div class="text-content">
                   <h3 class="tm-text-secondary tm-mb-5">
-                    About Us
+                    About Me
                   </h3>
                   <p class="tm-mb-5">
-                    Above pink girl photo is provided by Moose Photos from
-                    Pexels. This is a tab content area. There are 3 tabs at the
-                    left side. Curabitur porttitor metus nisl. Nullam nec dictum
-                    dolor. Sed ultricies purus nec suscipit vulputate. Fusce a
-                    massa eu orci vulputate varius. Quisque quis ullamcorper
-                    sapien. Integer eu luctus nulla, vel viverra odio.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio deserunt maxime sapiente nobis, minus harum. Molestiae nesciunt, pariatur iure voluptatibus, corrupti quos nemo repellendus eaque suscipit quia, architecto a soluta.
                   </p>
                   <p class="tm-mb-5">
-                    Praesent id felis ac erat elementum condimentum.
-                    Pellentesque a libero vitae nisi vestibulum tempor vitae
-                    vitae nulla. Praesent ut eleifend ligula, nec pretium erat.
-                    Suspendisse nec magna id massa sollicitudin aliquam eget ut
-                    turpis.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus doloremque iure quas tempore quis, vero quaerat id eveniet iste labore eos assumenda sit quibusdam culpa quo? Soluta natus ratione suscipit.
                   </p>
                 </div>
-                <div class="row tm-pt-5">
-                  <div class="col-md-4 text-center">
-                    <div class="tm-about-person mx-auto">
-                      <img
-                        src="img/bitcoin-girl.jpg"
-                        alt="Image"
-                        class="img-fluid tm-mb-1"
-                      />
-                      <h4 class="tm-text-secondary tm-mb-1">
-                        Catherine Theta
-                      </h4>
-                      <p class="tm-mb-2">Project Manager</p>
-                      <div class="tm-mb-3">
-                        <a
-                          href="https://facebook.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-facebook-f tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://twitter.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-twitter tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://linkedin.com"
-                          class="tm-about-social-link"
-                        >
-                          <i
-                            class="fab fa-linkedin-in tm-about-social-icon"
-                          ></i>
-                        </a>
-                      </div>
-
-                      <p>
-                        Mauris efficitur risus mi, et varius dolor sodales
-                        facilisis. Fusce sed mi tristique.
-                      </p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-4 text-center">
-                    <div class="tm-about-person mx-auto">
-                      <img
-                        src="img/ar-guy.jpg"
-                        alt="Image"
-                        class="img-fluid tm-mb-1"
-                      />
-                      <h4 class="tm-text-secondary tm-mb-1">New Hudson</h4>
-                      <p class="tm-mb-2">Digital Marketing</p>
-                      <div class="tm-mb-3">
-                        <a
-                          href="https://facebook.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-facebook-f tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://twitter.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-twitter tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://linkedin.com"
-                          class="tm-about-social-link"
-                        >
-                          <i
-                            class="fab fa-linkedin-in tm-about-social-icon"
-                          ></i>
-                        </a>
-                      </div>
-                      <p>
-                        Pellentesque habitant morbi tristique senectus et netus
-                        et malesuada fames.
-                      </p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-4 text-center">
-                    <div class="tm-about-person mx-auto">
-                      <img
-                        src="img/desk-girl.jpg"
-                        alt="Image"
-                        class="img-fluid tm-mb-1"
-                      />
-                      <h4 class="tm-text-secondary tm-mb-1">Jennifer Wall</h4>
-                      <p class="tm-mb-2">Team Leader</p>
-                      <div class="tm-mb-3">
-                        <a
-                          href="https://facebook.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-facebook-f tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://twitter.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-twitter tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://linkedin.com"
-                          class="tm-about-social-link"
-                        >
-                          <i
-                            class="fab fa-linkedin-in tm-about-social-icon"
-                          ></i>
-                        </a>
-                      </div>
-                      <p>
-                        Three social icons are placed in above circles. Sed
-                        turpis nisl, congue a arcu in.
-                      </p>
-                    </div>
-                  </div>
                 </div>
-              </div>
+
+            
               <div id="tab2">
                 <div class="text-content">
                   <h3 class="tm-text-secondary tm-mb-5">Vision and Mission</h3>
                   <p class="tm-mb-5">
-                    Nam consequat, leo vitae aliquet dignissim, leo est laoreet
-                    nibh, nec dictum libero justo vitae dolor. Donec tristique
-                    eros at nisi elementum efficitur. Proin ornare feugiat ex
-                    placerat pellenteqsue. Nulla convallis est volutpat ex
-                    ultrices facilisis.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. A eius laborum, voluptatum assumenda minima, sed esse provident magnam possimus dolorem consequuntur, facere inventore dolore iure debitis sit corrupti ipsam molestias.
                   </p>
                   <p class="tm-mb-5">
-                    Etiam egestas metus vitae est interdum, in eleifend nunc
-                    volutpat. Aliquam molestie ipsum quis suscipit lacinia.
-                    Mauris turpis libero, iaculis non dictum ac, ornare a massa.
-                    Duis id lorem purus. Fusce viverra ullamcorper metus.
-                    Curabitur puvinar suscipit sapien ac blandit. Aliquam vel
-                    pulvinar purus, sit amet luctus urna.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt molestias fuga, facilis repudiandae dicta alias mollitia autem blanditiis qui commodi assumenda eius fugit, ipsum at architecto velit fugiat illo ab!
                   </p>
-                </div>
-                <div class="row tm-pt-5">
-                  <div class="col-md-4 text-center">
-                    <div class="tm-about-person mx-auto">
-                      <img
-                        src="img/bitcoin-girl.jpg"
-                        alt="Image"
-                        class="img-fluid tm-mb-1"
-                      />
-                      <h4 class="tm-text-secondary tm-mb-1">
-                        Catherine Theta
-                      </h4>
-                      <p class="tm-mb-2">Project Manager</p>
-                      <div class="tm-mb-3">
-                        <a
-                          href="https://facebook.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-facebook-f tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://twitter.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-twitter tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://linkedin.com"
-                          class="tm-about-social-link"
-                        >
-                          <i
-                            class="fab fa-linkedin-in tm-about-social-icon"
-                          ></i>
-                        </a>
-                      </div>
-
-                      <p>
-                        Mauris efficitur risus mi, et varius dolor sodales
-                        facilisis. Fusce sed mi tristique.
-                      </p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-4 text-center">
-                    <div class="tm-about-person mx-auto">
-                      <img
-                        src="img/ar-guy.jpg"
-                        alt="Image"
-                        class="img-fluid tm-mb-1"
-                      />
-                      <h4 class="tm-text-secondary tm-mb-1">New Hudson</h4>
-                      <p class="tm-mb-2">Digital Marketing</p>
-                      <div class="tm-mb-3">
-                        <a
-                          href="https://facebook.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-facebook-f tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://twitter.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-twitter tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://linkedin.com"
-                          class="tm-about-social-link"
-                        >
-                          <i
-                            class="fab fa-linkedin-in tm-about-social-icon"
-                          ></i>
-                        </a>
-                      </div>
-                      <p>
-                        Pellentesque habitant morbi tristique senectus et netus
-                        et malesuada fames.
-                      </p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-4 text-center">
-                    <div class="tm-about-person mx-auto">
-                      <img
-                        src="img/desk-girl.jpg"
-                        alt="Image"
-                        class="img-fluid tm-mb-1"
-                      />
-                      <h4 class="tm-text-secondary tm-mb-1">Jennifer Wall</h4>
-                      <p class="tm-mb-2">Team Leader</p>
-                      <div class="tm-mb-3">
-                        <a
-                          href="https://facebook.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-facebook-f tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://twitter.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-twitter tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://linkedin.com"
-                          class="tm-about-social-link"
-                        >
-                          <i
-                            class="fab fa-linkedin-in tm-about-social-icon"
-                          ></i>
-                        </a>
-                      </div>
-                      <p>
-                        Three social icons are placed in above circles. Sed
-                        turpis nisl, congue a arcu in.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div id="tab3">
-                <div class="text-content">
-                  <h3 class="tm-text-secondary tm-mb-5">Our History</h3>
-                  <p class="tm-mb-5">
-                    Mauris turpis libero, iaculis non dictum ac, ornare a massa.
-                    Duis id lorem purus. Fusce viverra ullamcorper metus.
-                    Curabitur puvinar suscipit sapien ac blandit. Aliquam vel
-                    pulvinar purus, sit amet luctus urna. Nulla convallis est
-                    volutpat ex ultrices facilisis.
-                  </p>
-                  <p class="tm-mb-5">
-                    Etiam egestas metus vitae est interdum, in eleifend nunc
-                    volutpat. Aliquam molestie ipsum quis suscipit lacinia. Nam
-                    consequat, leo vitae aliquet dignissim, leo est laoreet
-                    nibh, nec dictum libero justo vitae dolor. Donec tristique
-                    eros at nisi elementum efficitur. Proin ornare feugiat ex
-                    placerat pellenteqsue.
-                  </p>
-                </div>
-                <div class="row tm-pt-5">
-                  <div class="col-md-4 text-center">
-                    <div class="tm-about-person mx-auto">
-                      <img
-                        src="img/bitcoin-girl.jpg"
-                        alt="Image"
-                        class="img-fluid tm-mb-1"
-                      />
-                      <h4 class="tm-text-secondary tm-mb-1">
-                        Catherine Theta
-                      </h4>
-                      <p class="tm-mb-2">Project Manager</p>
-                      <div class="tm-mb-3">
-                        <a
-                          href="https://facebook.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-facebook-f tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://twitter.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-twitter tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://linkedin.com"
-                          class="tm-about-social-link"
-                        >
-                          <i
-                            class="fab fa-linkedin-in tm-about-social-icon"
-                          ></i>
-                        </a>
-                      </div>
-
-                      <p>
-                        Mauris efficitur risus mi, et varius dolor sodales
-                        facilisis. Fusce sed mi tristique.
-                      </p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-4 text-center">
-                    <div class="tm-about-person mx-auto">
-                      <img
-                        src="img/ar-guy.jpg"
-                        alt="Image"
-                        class="img-fluid tm-mb-1"
-                      />
-                      <h4 class="tm-text-secondary tm-mb-1">New Hudson</h4>
-                      <p class="tm-mb-2">Digital Marketing</p>
-                      <div class="tm-mb-3">
-                        <a
-                          href="https://facebook.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-facebook-f tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://twitter.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-twitter tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://linkedin.com"
-                          class="tm-about-social-link"
-                        >
-                          <i
-                            class="fab fa-linkedin-in tm-about-social-icon"
-                          ></i>
-                        </a>
-                      </div>
-                      <p>
-                        Pellentesque habitant morbi tristique senectus et netus
-                        et malesuada fames.
-                      </p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-4 text-center">
-                    <div class="tm-about-person mx-auto">
-                      <img
-                        src="img/desk-girl.jpg"
-                        alt="Image"
-                        class="img-fluid tm-mb-1"
-                      />
-                      <h4 class="tm-text-secondary tm-mb-1">Jennifer Wall</h4>
-                      <p class="tm-mb-2">Team Leader</p>
-                      <div class="tm-mb-3">
-                        <a
-                          href="https://facebook.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-facebook-f tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://twitter.com"
-                          class="tm-about-social-link"
-                        >
-                          <i class="fab fa-twitter tm-about-social-icon"></i>
-                        </a>
-                        <a
-                          href="https://linkedin.com"
-                          class="tm-about-social-link"
-                        >
-                          <i
-                            class="fab fa-linkedin-in tm-about-social-icon"
-                          ></i>
-                        </a>
-                      </div>
-                      <p>
-                        Three social icons are placed in above circles. Sed
-                        turpis nisl, congue a arcu in.
-                      </p>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
@@ -535,12 +138,10 @@ https://templatemo.com/tm-532-next-level
               <i class="fas fa-3x fa-rss-square tm-call-to-action-icon"></i>
               <div class="tm-call-to-action-text">
                 <h3 class="tm-call-to-action-title">
-                  Vivamus sollicitudin tellus
+                  Rakymzhan Sultan
                 </h3>
                 <p class="tm-call-to-action-description">
-                  Maecenas maximus tellus in dolor auctor tristique. Nam
-                  hendrerit posuere laoreet. Aliquam erat volutpat. Nulla eros
-                  est, imperdiet vel feugiat non, ullamcorper mattis nulla.
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum incidunt dolorum eum, illum nostrum eligendi? Consequuntur aliquam perferendis laborum vitae ad quasi minima recusandae, quod, sint saepe velit, numquam dolorem?
                 </p>
                 <form action="#" method="GET" class="tm-call-to-action-form">
                   <input
@@ -562,7 +163,7 @@ https://templatemo.com/tm-532-next-level
       <!-- Page footer -->
       <footer class="row tm-page-footer">
         <p class="col-12 tm-copyright-text mb-0">
-          Copyright &copy; 2019 Next Level Company... Designed by Template Mo
+          Copyright &copy; Rakymzhan Sultan
         </p>
       </footer>
     </div>

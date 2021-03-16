@@ -41,7 +41,7 @@ https://templatemo.com/tm-532-next-level
                 <ul class="navbar-nav ml-auto mr-0">
                   <li class="nav-item active">
                     <div class="tm-nav-link-highlight"></div>
-                    <a class="nav-link" href="#"
+                    <a class="nav-link" href="/"
                       >Home <span class="sr-only">(current)</span></a
                     >
                   </li>
@@ -65,8 +65,7 @@ https://templatemo.com/tm-532-next-level
           <div class="tm-page-col-left tm-welcome-box tm-bg-gradient">
             <p class="tm-welcome-text">
               <em
-                >"Gradient CSS BG #A0C0C0 to #669999 and right side is a
-                parallax image of our group."</em
+                >Have questions? Contact me!</em
               >
             </p>
           </div>
@@ -74,7 +73,7 @@ https://templatemo.com/tm-532-next-level
             <div
               class="tm-welcome-parallax"
               data-parallax="scroll"
-              data-image-src="img/contact-us.jpg"
+              data-image-src="img/contact.jpg"
             ></div>
           </div>
         </div>
@@ -88,17 +87,11 @@ https://templatemo.com/tm-532-next-level
                 <h2 class="tm-text-secondary tm-mb-6">Address</h2>
                 <address>
                   <p>
-                    110-330 Sed ultricies purus nec<br />
-                    Suscipit vulputate<br />
-                    Fusce a massa 10550
+                    Almaty
                   </p>
                 </address>
               </div>
 
-              <div class="tm-location-container">
-                <h2 class="tm-text-secondary tm-mb-4">Location</h2>
-                <a href="#"><img src="img/map.png" alt="Map image" class="img-fluid" /></a>
-              </div>
             </div>
           </div>
           <div class="tm-page-col-right tm-form-container">
@@ -211,41 +204,10 @@ https://templatemo.com/tm-532-next-level
         </div>
       </section>
 
-      <!-- Call to Action -->
-      <section class="row" id="tmCallToAction">
-        <div class="col-12 tm-page-cols-container tm-call-to-action-col">
-          <div class="tm-page-col-right">
-            <div class="tm-call-to-action-box">
-              <i class="fas fa-3x fa-rss-square tm-call-to-action-icon"></i>
-              <div class="tm-call-to-action-text">
-                <h3 class="tm-call-to-action-title">
-                  Vivamus sollicitudin tellus
-                </h3>
-                <p class="tm-call-to-action-description">
-                  Maecenas maximus tellus in dolor auctor tristique. Nam
-                  hendrerit posuere laoreet. Aliquam erat volutpat. Nulla eros
-                  est, imperdiet vel feugiat non, ullamcorper mattis nulla.
-                </p>
-                <form action="#" method="GET" class="tm-call-to-action-form">
-                  <input
-                    type="email"
-                    name="email"
-                    placeholder="Email"
-                    class="tm-email-input"
-                    required />
-                  <button type="submit" class="btn btn-primary">
-                    Subscribe
-                  </button>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
       <!-- Page footer -->
       <footer class="row tm-page-footer">
         <p class="col-12 tm-copyright-text mb-0">
-          Copyright &copy; 2019 Next Level Company... Designed by Template Mo
+          Copyright &copy; Rakymzhan Sultan
         </p>
       </footer>
     </div>

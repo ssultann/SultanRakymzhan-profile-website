@@ -38,7 +38,7 @@
                 <ul class="navbar-nav ml-auto mr-0">
                   <li class="nav-item active">
                     <div class="tm-nav-link-highlight"></div>
-                    <a class="nav-link" href="#"
+                    <a class="nav-link" href="/"
                       >Home <span class="sr-only">(current)</span></a
                     >
                   </li>
@@ -68,7 +68,7 @@
             <div
               class="tm-welcome-parallax"
               data-parallax="scroll"
-              data-image-src="blue-contem-girl.jpg"
+              data-image-src="main.jpg"
             ></div>
           </div>
         </div>
@@ -81,14 +81,10 @@
               Information about me
             </h2>
             <p class="tm-mb-6">
-              Homepage main photo is provided by <strong>Moose Photos</strong> from <strong>Pexels</strong>. Next Level CSS Template is brought to you by Template Mo website. You can feel free to adapt it for your websites. No need to put a footer credit link. Please kindly spread a word about us. Thank you. If you have any question, feel free to contact us on Facebook page.
-              
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia animi optio quia necessitatibus voluptate maiores iure totam amet saepe explicabo tempore temporibus beatae numquam quasi vel, vitae voluptatem aliquam accusamus.              
             </p>
             <p class="mb-0">
-           	  Nullam nec dictum dolor. Sed ultricies purus nec suscipit vulputate. Fusce a massa eu orci
-              vulputate varius. Praesent id felis ac erat elementum condimentum. Pellentesque a
-              libero vitae nisi vestibulum tempor vitae vitae nulla. Praesent ut
-              eleifend ligula, nec pretium erat.
+           	 Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta molestiae est itaque tempora vero eveniet tenetur. Voluptas sunt repudiandae quisquam adipisci doloremque rem ducimus quas, consequuntur, eaque soluta eius officiis?
             </p>
           </div>
         </div>
@@ -103,12 +99,10 @@
               data-image-src="image-1.jpg"></div>
             <div>
               <h3 class="tm-text-secondary tm-mb-4">
-                Quisque at rutrum felis
+                Almaty
               </h3>
               <p class="tm-mb-5">
-                Photo by CoWomen from Pexels. Morbi sollicitudin nibh eu
-                dignissim mollis. Etiam turpis tortor, ultricies sit amet
-                placerat suscipit, auctor eu diam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate accusamus hic ullam reprehenderit tenetur facere. Quod maxime ipsum, obcaecati expedita unde error laudantium, odio minus possimus optio ducimus. Tenetur, incidunt!
               </p>
               <ul class="tm-list-plus">
                 <li>Vestibulum finibus consectetur nulla</li>
@@ -125,53 +119,24 @@
               data-image-src="image-2.jpg"></div>
             <div>
               <h3 class="tm-text-secondary tm-mb-4">
-                Sed ultricies tortor vitae
+                Shymkent
               </h3>
               <p class="tm-section-2-text">
-                Photo by <strong>CoWomen</strong> from <strong>Pexels</strong>. Quisque tortor justo, pharetra in
-                eros sed, accumsan dapibus dolor. In luctus sed ante a
-                tristique.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque soluta alias pariatur aspernatur nisi id quia, maiores eveniet! Exercitationem omnis rerum asperiores voluptatum perferendis ut beatae id qui quo perspiciatis?
               </p>
               <p>
-                You cannot re-distribute our template on your website for download. Ut ornare pulvinar lorem a elementum. Cras sollicitudin ante velit, eget facilisis sem viverra nex. Etiam quis mattis urna.
-              </p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut alias culpa quas enim voluptatum, vero odio reprehenderit? Ex laudantium est similique ea hic repellat, et, accusantium asperiores sed rem laborum?              </p>
             </div>
           </div>
         </div>
       </div>
       <!-- row -->
 
-      <!-- Call to Action -->
-      <section class="row" id="tmCallToAction">
-        <div class="col-12 tm-page-cols-container tm-call-to-action-col">
-          <div class="tm-page-col-right">
-            <div class="tm-call-to-action-box">
-              <i class="fas fa-3x fa-rss-square tm-call-to-action-icon"></i>
-              <div class="tm-call-to-action-text">
-                <h3 class="tm-call-to-action-title">
-                  Vivamus sollicitudin tellus
-                </h3>
-                <p class="tm-call-to-action-description">
-                  Maecenas maximus tellus in dolor auctor tristique. Nam
-                  hendrerit posuere laoreet. Aliquam erat volutpat. Nulla eros
-                  est, imperdiet vel feugiat non, ullamcorper mattis nulla.
-                </p>
-                <form action="#" method="GET" class="tm-call-to-action-form">
-                  <input type="email" name="email" placeholder="Email" class="tm-email-input" required />
-                  <button type="submit" class="btn btn-primary">
-                    Subscribe
-                  </button>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+
       <!-- Page footer -->
       <footer class="row tm-page-footer">
         <p class="col-12 tm-copyright-text mb-0">
-          Copyright &copy; 2019 Next Level Company... Designed by
-          <a href="https://fb.com/templatemo" rel="nofollow" class="tm-copyright-link">Template Mo</a>
+          Copyright &copy; Rakymzhan Sultan
         </p>
       </footer>
     </div>
@@ -179,5 +144,8 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/parallax.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+
+    <!-- <script type="text/javascript" src="{{ URL::asset('js/jquery.min.js') }}"></script> -->
+
   </body>
 </html>
