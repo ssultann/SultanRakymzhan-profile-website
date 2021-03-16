@@ -5,6 +5,7 @@ use Illuminate\Support\Facades\DB;
 
 use App\models\Post;
 
+use App\Http\Controllers\PostController;
 
 /*
 |--------------------------------------------------------------------------
@@ -36,8 +37,6 @@ Route::get('post/add', function() {
     ]);
 });
 
-Route::get('post', function() {
-    $post = Post::find(1);
-    return $post;
-});
+Route::get('post', [PostController::class, 'index']);
+
 
